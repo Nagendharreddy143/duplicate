@@ -1,7 +1,7 @@
 
 ## Dockerization
 1. **Clone the repository**
- git clone https://github.com/Nagendharreddy143/duplicate.git
+ git clone https://github.com/Nagendharreddy143/wisecow.git
 
 2. **Write Dockerfile**:
     ```Dockerfile
