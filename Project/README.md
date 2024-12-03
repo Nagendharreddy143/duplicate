@@ -1,7 +1,7 @@
 
 ## Dockerization
 1. **Clone the repository**
- git clone https://github.com/duplicate/Project
+ git clone https://github.com/Nagendharreddy143/duplicate.git
 
 2. **Write Dockerfile**:
     ```Dockerfile
